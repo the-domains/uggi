@@ -1,0 +1,28 @@
+name: Uggi
+favicon: null
+layout_spectrum: 0.6333649819716811
+typography_spectrum: 0.645429365336895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8679092426318675
+  lightness: 0.4018678304273635
+  saturation: 0.3469703057780862
+  rhythmicContrast: 0.28763630287721753
+purpose: []
