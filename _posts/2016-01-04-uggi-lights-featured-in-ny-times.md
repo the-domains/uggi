@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-04T12:10:03.155Z'
-dateModified: '2016-01-04T12:09:49.409Z'
+datePublished: '2016-01-04T12:32:36.105Z'
+dateModified: '2016-01-04T12:32:27.617Z'
 title: Uggi Lights featured in NY Times
 author: []
 authors: []
