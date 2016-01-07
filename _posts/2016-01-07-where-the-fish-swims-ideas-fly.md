@@ -1,11 +1,25 @@
 ---
 author: []
-related: []
+related:
+  - score: 0.5495936275000001
+    description: 'Fishing rods make great gifts for any fisherman on your list. However there are a lot of different kinds of fishing rods - **[spinning fishing rods](http://amzn.to/1E3aohu)**, **[surf casting rods](http://amzn.to/1JfqIfA)**, **[bait casting rods](http://amzn.to/1JfrGsi)**, **[fly fishing rods](http://amzn.to/1NCRr5x)**, **[ice fishing rods](http://amzn.to/1KtMJ70)**, **[trolling rods](http://amzn.to/1Jft2Dd)**, **[deep sea fishing rods](http://amzn.to/1JftcKV)**, and probably more - so hopefully this list will help you with your choice.'
+    title: Fishing Rods Make Great Gifts
+    url: 'http://list.ly/list/lt0-fishing-rods-make-great-gifts'
+    thumbnail_height: 250
+    thumbnail_url: 'http://media-cdn.list.ly/production/184078/headline?ver=3638739704'
+    thumbnail_width: 1200
+  - score: 0.5044525266000001
+    description: A Social Media Story storified by emailcash
+    title: Fishing Rods Make Great Gifts (with image) · emailcash
+    url: 'https://storify.com/emailcash/fishing-rods-make-great-gifts'
+    thumbnail_height: 960
+    thumbnail_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Deepsea.JPG/1280px-Deepsea.JPG'
+    thumbnail_width: 1280
 publisher:
-  url: 'http://www.nytimes.com'
   name: Nytimes
-  favicon: 'http://static01.nyt.com/favicon.ico'
   domain: www.nytimes.com
+  url: 'http://www.nytimes.com'
+  favicon: 'http://static01.nyt.com/favicon.ico'
 keywords:
   - desk
   - fish
@@ -34,13 +48,15 @@ app_links:
     app_name: NYTimes
 isBasedOnUrl: 'http://www.nytimes.com/2014/02/16/jobs/where-the-fish-swims-ideas-fly.html?_r=0'
 title: 'Where the Fish Swims, Ideas Fly'
-datePublished: '2016-01-07T16:45:25.312Z'
-dateModified: '2016-01-04T12:05:40.123Z'
-sourcePath: _posts/2016-01-07-where-the-fish-swims-ideas-fly.md
-published: true
+datePublished: '2016-01-07T16:45:25.322Z'
+dateModified: '2016-01-07T16:44:58.793Z'
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
+sourcePath: _posts/2016-01-07-where-the-fish-swims-ideas-fly.md
+published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
